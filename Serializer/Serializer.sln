@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serializer", "Serializer\Serializer.csproj", "{97A99B4B-C2F0-492F-869C-E4B5F94A4F3C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3599CF2E-EFCE-4E13-A912-002972AA3632} = {3599CF2E-EFCE-4E13-A912-002972AA3632}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "..\Tracer\Abstraction\Abstraction.csproj", "{3599CF2E-EFCE-4E13-A912-002972AA3632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A99B4B-C2F0-492F-869C-E4B5F94A4F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A99B4B-C2F0-492F-869C-E4B5F94A4F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A99B4B-C2F0-492F-869C-E4B5F94A4F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A99B4B-C2F0-492F-869C-E4B5F94A4F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3599CF2E-EFCE-4E13-A912-002972AA3632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3599CF2E-EFCE-4E13-A912-002972AA3632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3599CF2E-EFCE-4E13-A912-002972AA3632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3599CF2E-EFCE-4E13-A912-002972AA3632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CFFE11E-4579-44DC-971F-77281DC27BB5}
+	EndGlobalSection
+EndGlobal

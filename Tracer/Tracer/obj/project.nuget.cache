@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rof8/gnNbkgn2693bsS0qO1xtA+ainCh3lt+u29xoqXyAnnhufbuDWa8QLE6IhnrDG9V0UEt/NWBMrtyc3pwLg==",
+  "success": true,
+  "projectFilePath": "D:\\student\\3 курс 1 сем\\СПП\\lab1_v3\\Tracer\\Tracer\\Tracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\yamldotnet\\12.0.2\\yamldotnet.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

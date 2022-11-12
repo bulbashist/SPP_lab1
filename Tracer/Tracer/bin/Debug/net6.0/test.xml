@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLTraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <IntermediateThreadResult>
+      <Id>1</Id>
+      <Time>334</Time>
+      <Methods>
+        <IntermediateMethodData>
+          <Name>M3</Name>
+          <ClassName>Examples</ClassName>
+          <Time>276</Time>
+          <Methods>
+            <IntermediateMethodData>
+              <Name>M1</Name>
+              <ClassName>Examples</ClassName>
+              <Time>215</Time>
+              <Methods />
+            </IntermediateMethodData>
+            <IntermediateMethodData>
+              <Name>M2</Name>
+              <ClassName>Examples</ClassName>
+              <Time>61</Time>
+              <Methods />
+            </IntermediateMethodData>
+          </Methods>
+        </IntermediateMethodData>
+        <IntermediateMethodData>
+          <Name>M2</Name>
+          <ClassName>Examples</ClassName>
+          <Time>58</Time>
+          <Methods />
+        </IntermediateMethodData>
+      </Methods>
+    </IntermediateThreadResult>
+    <IntermediateThreadResult>
+      <Id>10</Id>
+      <Time>57</Time>
+      <Methods>
+        <IntermediateMethodData>
+          <Name>M2</Name>
+          <ClassName>Examples</ClassName>
+          <Time>57</Time>
+          <Methods />
+        </IntermediateMethodData>
+      </Methods>
+    </IntermediateThreadResult>
+  </threads>
+</XMLTraceResult>

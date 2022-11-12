@@ -1,0 +1,47 @@
+{
+  "Threads": [
+    {
+      "Id": 1,
+      "Time": 328,
+      "Methods": [
+        {
+          "Name": "M3",
+          "ClassName": "Examples",
+          "Time": 263,
+          "Methods": [
+            {
+              "Name": "M1",
+              "ClassName": "Examples",
+              "Time": 202,
+              "Methods": []
+            },
+            {
+              "Name": "M2",
+              "ClassName": "Examples",
+              "Time": 60,
+              "Methods": []
+            }
+          ]
+        },
+        {
+          "Name": "M2",
+          "ClassName": "Examples",
+          "Time": 65,
+          "Methods": []
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Time": 53,
+      "Methods": [
+        {
+          "Name": "M2",
+          "ClassName": "Examples",
+          "Time": 53,
+          "Methods": []
+        }
+      ]
+    }
+  ]
+}
